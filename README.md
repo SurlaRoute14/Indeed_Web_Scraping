@@ -8,7 +8,7 @@ Danach Loopt das Skript durch diese Liste und vergleicht die Bescheibungen der S
 
 Am Ende werden dann die vorkomnisse eines jeden Keywords in einem Barchart dargestellt. 
 
-Hier ein Auszug der 12 relevantesten Kentnisse aus 450 Stellenanzeigen:  -fett machen
+**Hier ein Auszug der 24 relevantesten Kentnisse aus 450 Stellenanzeigen:**  
 
 ///////////////////////////////////////////////////////////////////////
 
