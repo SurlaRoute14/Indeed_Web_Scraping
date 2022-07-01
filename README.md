@@ -10,7 +10,7 @@ Am Ende werden dann die vorkomnisse eines jeden Keywords in einem Barchart darge
 
 **Hier ein Auszug der 24 relevantesten Kentnisse aus 450 Stellenanzeigen:**  
 
-![a][Bildschirmfoto%202022-06-30%20um%2019.18.11.png]
+![a][Plot]
 
 Disclaimer:
 Das Scrapen von Stellenzeigen verstöß gegen die AGB von Indeed. Ich will hier nur zeigen wie das theoretisch möglich wäre und niemanden zu ähnlichen Handlungen verleiten. 
