@@ -10,7 +10,7 @@ Am Ende werden dann die Vorkomnisse eines jeden Keywords in einem Barchart darge
 
 **Hier ein Auszug der 24 relevantesten Kentnisse aus 450 Stellenanzeigen:**  
 
-![a]()
+![a](plot_12.png)
 
 
 
