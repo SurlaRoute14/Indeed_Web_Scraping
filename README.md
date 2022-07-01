@@ -8,12 +8,12 @@ Danach Loopt das Skript durch diese Liste und vergleicht die Bescheibungen der S
 
 Am Ende werden dann die Vorkomnisse eines jeden Keywords in einem Barchart dargestellt. 
 
-**Hier ein Auszug der 24 relevantesten Kentnisse aus 450 Stellenanzeigen:**  
+**Hier ein Auszug der 12 relevantesten Kentnisse aus 450 Stellenanzeigen:**  
 
 ![a](plot_12.png)
 
 
 
 Disclaimer:
-Das Scrapen von Stellenzeigen verstöß gegen die AGB von Indeed. Ich will hier nur zeigen wie das theoretisch möglich wäre und niemanden zu ähnlichen Handlungen verleiten. 
+Das Scrapen von Stellenzeigen verstöß gegen die AGB von Indeed. Ich will hier nur zeigen wie das theoretisch möglich wäre und niemanden zu solchen oder ähnlichen Handlungen verleiten. 
 
