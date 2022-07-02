@@ -8,7 +8,7 @@ Danach Loopt das Skript durch diese Liste und vergleicht die Bescheibungen der S
 
 Am Ende werden dann die Vorkomnisse eines jeden Keywords in einem Barchart dargestellt. 
 
-**Hier ein Auszug der 12 relevantesten Kentnisse aus 450 Stellenanzeigen:**  
+**Hier ein Auszug der 11 relevantesten Kentnisse aus 450 Stellenanzeigen:**  
 
 ![a](plot_12.png)
 
